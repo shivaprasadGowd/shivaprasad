@@ -46,8 +46,8 @@ const About: React.FC = () => {
             </p>
             
             <p className="about-description">
-              Adept at writing clean, maintainable code and collaborating in Agile teams to drive 
-              innovation. My experience at GTPL has allowed me to develop secure, scalable web 
+              Adept at writing clean, maintainable code and building practical product features. 
+              My experience at GTPL has allowed me to develop secure, scalable web 
               applications and integrate blockchain-based systems with AI-powered features.
             </p>
 

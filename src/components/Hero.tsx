@@ -31,7 +31,7 @@ const Hero = () => {
             <h2 className="section__title">Full-Stack <span>Developer</span></h2>
             <p className="hero-description">
               Welcome to my developer portfolio! I'm Shivaprasad, a skilled and creative
-              full-stack developer and team leader with a passion for building scalable FinTech
+              full-stack developer with a passion for building scalable FinTech
               applications, blockchain integrations, and AI-powered solutions.
             </p>
             <div className="action__btns">

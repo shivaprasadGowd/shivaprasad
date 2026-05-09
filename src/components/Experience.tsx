@@ -15,7 +15,7 @@ const Experience: React.FC = () => {
       'Built AI-powered features using OpenAI APIs to improve user experience',
       'Implemented JWT-based authentication for secure API access across platforms',
       'Promoted to full-time role after successful internship, delivering reusable Django components',
-      'Collaborated in Agile teams to drive innovation in FinTech solutions'
+      'Built practical FinTech features with secure API and backend workflows'
     ],
     achievements: [
       'Promoted from intern to full-time developer within 6 months',
