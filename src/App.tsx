@@ -106,6 +106,26 @@ const skillCategories = [
 
 const projects: Project[] = [
   {
+    id: 'edge-native-financial-platform',
+    title: 'Edge-Native Financial Platform',
+    description: 'A FinTech operating platform for payments, financial data, receivables, and compliance workflows.',
+    longDescription:
+      'A cross-border financial platform designed as a unified system for managing payments, receivables, financial data, and compliance workflows. The platform supports structured payment flows, system-level transaction tracking, and integration with external financial services while keeping scalability, modularity, and reliability at the center.',
+    icon: Shield,
+    technologies: ['FastAPI', 'PostgreSQL', 'GCP', 'Xflow APIs', 'Microservices', 'React', 'Next.js', 'CockroachDB'],
+    features: [
+      'Cross-border payment integration',
+      'Financial data and transaction management',
+      'Receivables and payout workflows',
+      'Compliance-aware platform design',
+      'Microservices-oriented architecture',
+    ],
+    status: 'In Development',
+    category: 'FinTech',
+    accent: '99, 102, 241',
+    span: 'project-wide',
+  },
+  {
     id: 'wellness-booking',
     title: 'Regenerative Wellness Booking App',
     description: 'A mobile app for 60-day therapy booking with dynamic scheduling and real-time booking management.',
