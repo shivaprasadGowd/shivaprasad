@@ -241,7 +241,7 @@ function App() {
     <div className="portfolio-shell">
       <nav className="site-nav" aria-label="Primary navigation">
         <a className="nav-brand" href="#home">
-          Shiva<span>prasad G</span>
+          Shivaprasad G
         </a>
         <div className="nav-links">
           {navItems.map((item) => (
